@@ -11,7 +11,7 @@ const Menu = () => {
         <p>
           Lorem ipsum adipisicing elit. Tempora placeat deserunt, cupiditate
           asperiores sed velit quos quisquam aspernatur eos tenetur dolor
-          eligendi! Tempora.
+          eligendi! Temporary.
         </p>
       </div>
       <div className="menubar-wrapper">
